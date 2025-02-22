@@ -1,2 +1,1 @@
-#OPENGL
 not work GL
